@@ -1,0 +1,13 @@
+h1{ text-align: center;}
+        .fila{
+            border: 1px solid blue;
+            background-color: rgb(151, 214, 204);
+            /*height:150px;*/
+            margin-bottom: 1px;
+            
+        }
+        .columna{
+            background-color:lightgreen;
+            border: 2px solid green;
+            padding: 10px;
+        }
