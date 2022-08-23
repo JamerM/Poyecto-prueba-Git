@@ -1,19 +1,10 @@
-.bp{
-    background-color: aqua;
+body{
+    background-color:aqua
 }
-.col{
-    border: 1px solid
-    
-}
-.col{
-    height: 50px;
-}
-#tb{
-    background-color: aqua;
-    height: 150px;
-}
-#ck{
-    background-color: rgb(211, 42, 42)
-    
-}
+h1{ text-align: center;
+ color: yellow; }
+ h2{ text-align: center;white-space:nowrap}
+
+p{ color:blue;
+text-align-last: center;
 }
